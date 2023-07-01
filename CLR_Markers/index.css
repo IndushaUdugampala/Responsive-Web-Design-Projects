@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+.marker{
+    width:200px;
+    height:25px;
+    margin: 10px auto;
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    padding: 10px 0;
+}
+.one{
+    background: linear-gradient(90deg , red);
+}
+.two{
+    background-color: cyan;
+    
+}
+.three{
+    background-color: magenta;
+}
